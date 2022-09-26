@@ -1,8 +1,8 @@
-﻿body {
+﻿.body {
     color: #ffffff;
 }
 
-.container {
+.header {
     background: #000000;
     color: #9a0000;
     margin: auto;
