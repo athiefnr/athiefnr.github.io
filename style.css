@@ -30,6 +30,7 @@
 .main_content {
     height: 400px;
     background: #000000;
+    color: white;
     padding: 20px;
     margin: auto;
 }
